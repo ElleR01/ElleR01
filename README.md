@@ -90,9 +90,9 @@ I'm particularly fascinated by the potential of intelligent systems and the ways
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ElleR01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9" alt="GitHub statistics" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElleR01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9" alt="Most used languages" />
+
 
 </div>
 
